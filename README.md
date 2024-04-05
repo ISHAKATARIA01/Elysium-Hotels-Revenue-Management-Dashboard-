@@ -12,8 +12,7 @@ The project aims to optimize revenue management strategies by visualizing key me
 7. Forecasting and Predictive Analytics: Predicts future revenue trends and identifies potential risks.
 8. Recommendations: Offers actionable insights to optimize revenue and profitability.
 9. Visualizations and Dashboards: Includes interactive visualizations for easy data exploration.
-
-# ElysiumHotels, #DataVisulisation, #DataAnalytics, #DashboardCreation
+#ElysiumHotels, #DataVisulisation, #DataAnalytics, #DashboardCreation
 
 ## Features
 
